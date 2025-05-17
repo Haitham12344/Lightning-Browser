@@ -1,4 +1,4 @@
-# Lightning Browser [![Build](https://github.com/anthonycr/Lightning-Browser/actions/workflows/action.yml/badge.svg)](https://github.com/anthonycr/Lightning-Browser/actions/workflows/action.yml)
+كابوس جوجل# Lightning Browser [![Build](https://github.com/anthonycr/Lightning-Browser/actions/workflows/action.yml/badge.svg)](https://github.com/anthonycr/Lightning-Browser/actions/workflows/action.yml)
 
 ### Speed, Simplicity, Security
 ![](launcher_icon_small.png)
